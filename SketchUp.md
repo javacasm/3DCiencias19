@@ -17,9 +17,47 @@
 
 [Video tutoriales](http://www.sketchup.com/es/learn/videos/58?playlist=58)
 
-SketchUp es un producto comercial que tiene una licencia Make y Educacional gratuita
+SketchUp es un producto comercial que tiene una licencia free y Educacional gratuita
 
 Es una herramienta 2D que permite "levantar" los dibujos
+
+## https://app.sketchup.com/app?hl=es
+
+1. Creamos cuenta
+1. Usaremos la versión free
+1. Tour del interface
+
+## Modelo
+![sketchup UI](./images/sketchup_UI_1.png)
+## Medidas
+![sketchup UI](./images/sketchup_UI_medidas.png)
+## Paneles
+![sketchup UI](./images/sketchup_UI_paneles.png)
+![sketchup UI](./images/Sketchup_paneles_cerrar.png)
+## Rehacer / Deshacer
+![sketchup UI](./images/sketchup_UI_status_bar.png)
+## Herramientas
+![sketchup UI](./images/sketchup_UI_toolbar.png)
+## Opciones de un objeto
+![sketchup UI](./images/Sketchup_opciones_Objeto.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Versión de la aplicación
 
 * Aceptamos la licencia
 * Seleccionamos una plantilla: unidades y vista
