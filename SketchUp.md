@@ -64,7 +64,9 @@ Seleccionamos un objeto, por ejemplo a Helen, o mejor ... (Warehouse...)
 1. Escalones
 1. Puerta
 1. Ventanas huecas
+  1. Varias iguales (copiar, pegar y alinear)
 1. Levantar Tejado
+1. Colorear y texturas
 1. Añadir chimenea
 
 ### Medidas
@@ -77,16 +79,22 @@ Seleccionamos un objeto, por ejemplo a Helen, o mejor ... (Warehouse...)
 ### Atajos de teclado
 
 
-Spacebar – Select tool
-R – Rectangle tool
-L – Line tool
-M – Move tool
-P – Push/pull tool
-S – Scale tool
-Q – Rotate tool (This is one with a weird letter. But I remember it because the letter Q is round, and has a “handle” on it. So you could grab the handle and rotate it around 😉 )
-E – Eraser tool
-G – Make Component (See below, I created a custom shortcut SHIFT + G to make group)
-Arrow keys – Lock axis
+* **Spacebar** Select tool
+* **R**ectangle tool
+* **L**ine tool
+* **A**rc
+* **M**ove tool
+* **P**ush/pull tool
+* **S**cale tool
+* **Q** Rotate tool
+* **E**raser tool
+* **G** Make Component
+* Cursor – Lock axis
+* Paint **B**ucket tool
+* **C**ircle tool
+* **T**ape Measure tool
+* **O**rbit tool
+* **Z*oom tool
 
 ![shortcut](./images/Sketchup_Keyboard_Shortcuts.png)
 
