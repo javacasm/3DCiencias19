@@ -21,6 +21,8 @@ SketchUp es un producto comercial que tiene una licencia free y Educacional grat
 
 Es una herramienta 2D que permite "levantar" los dibujos
 
+### La "mentira" de SketchUp
+
 ## https://app.sketchup.com/app?hl=es
 
 1. Creamos cuenta
@@ -30,6 +32,9 @@ Es una herramienta 2D que permite "levantar" los dibujos
 ## Modelo
 ![sketchup UI](./images/sketchup_UI_1.png)
 ## Medidas
+
+Podemos indicar las medidas en cm, m, " ...
+
 ![sketchup UI](./images/sketchup_UI_medidas.png)
 ## Paneles
 ![sketchup UI](./images/sketchup_UI_paneles.png)
@@ -41,15 +46,49 @@ Es una herramienta 2D que permite "levantar" los dibujos
 ## Opciones de un objeto
 ![sketchup UI](./images/Sketchup_opciones_Objeto.png)
 
+### Rotación de los ejes y zoom
+
+### Trabajo con objetos sencillos
+
+Seleccionamos un objeto, por ejemplo a Helen, o mejor ... (Warehouse...)
+
+* Redimensionar
+* Rotar
+* Propiedades
 
 
+### Crear casita
+
+1. Base
+1. Volumen
+1. Escalones
+1. Puerta
+1. Ventanas huecas
+1. Levantar Tejado
+1. Añadir chimenea
+
+### Medidas
+
+1. Añadir cotas
+1. Redimensionar
+  1. ¡¡Cuidado con los ángulos!!
 
 
+### Atajos de teclado
 
 
+Spacebar – Select tool
+R – Rectangle tool
+L – Line tool
+M – Move tool
+P – Push/pull tool
+S – Scale tool
+Q – Rotate tool (This is one with a weird letter. But I remember it because the letter Q is round, and has a “handle” on it. So you could grab the handle and rotate it around 😉 )
+E – Eraser tool
+G – Make Component (See below, I created a custom shortcut SHIFT + G to make group)
+Arrow keys – Lock axis
 
-
-
+![shortcut](./images/Sketchup_Keyboard_Shortcuts.png)
 
 
 
