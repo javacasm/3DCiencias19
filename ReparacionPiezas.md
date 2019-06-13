@@ -1,3 +1,16 @@
+# Diseño e Impresión 3D: técnicas y aplicaciones
+
+## Bibliomaker de la Biblioteca de la Facultad de Ciencias
+
+
+### José Antonio Vacas @javacasm
+
+![CCbySA](images/CCbySQ_88x31.png)
+
+## https://github.com/javacasm/3DCiencias19
+
+
+
 ## Reparación de piezas
 
 ![repair](https://blog.prusaprinters.org/wp-content/uploads/2018/02/groot2-768x255.jpg)
