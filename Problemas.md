@@ -28,3 +28,5 @@
 *
 
 [Gúia de resolución de problemas](https://www.leon-3d.es/guia-de-resolucion-de-problemas/)
+
+[Problemas de impresión](https://cults3d.com/en/blog/articles/identify-correct-3D-printing-problems-defaults)

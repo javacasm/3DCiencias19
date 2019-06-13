@@ -15,6 +15,8 @@
 
 [Otra comparativa](http://buenosybaratos.es/electronica/impresora-3d/las-mejores-impresoras-3d/)
 
+[Impresoras de casas](https://twitter.com/evankirstel/status/1138456569962815499)
+
 ![1](./images/3d-yazıcı.jpg)
 
 ![2](./images/29012014VFSrKJjktqqcorAS.jpg)
