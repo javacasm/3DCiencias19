@@ -1,13 +1,14 @@
-# SOFTWARE Y RECURSOS PARA IMPRESORAS 3D ([191813GE029](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE029/))
+# Diseño e Impresión 3D: técnicas y aplicaciones
 
-## CEP de Guadix
+## Bibliomaker de la Biblioteca de la Facultad de Ciencias
 
 
 ### José Antonio Vacas @javacasm
 
 ![CCbySA](images/CCbySQ_88x31.png)
 
-## https://github.com/javacasm/3DGuadix2ed
+## https://github.com/javacasm/3DCiencias19
+
 
 ## Introducción
 
@@ -75,4 +76,6 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 [Tipos de materiales](https://bitfab.io/es/materiales-de-impresion-3d-fdm/)
 
 [Reglas de oro para imprimir desde SketchUp](https://www.iscarnet.com/2016/08/7-reglas-de-oro-para-la-impresion-3d-con-sketchup/)
-# 3DCiencias19
+
+[Guía de impresión 3D de Prusa Research](https://www.prusa3d.com/wp-content/uploads/basics-of-3D-printing.pdf)
+
