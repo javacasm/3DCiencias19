@@ -17,10 +17,18 @@ Cada vez existen más materiales susceptibles de poder usarse en las impresoras.
 
 * PLA
 * ABS
-* Proyecto
+* PETG
+* HIPS
 * Nylon
 * Nijaflex
-* ...
+
+### Par'ametros
+
+* Temperatura extrusor
+* Temperatura cama caliente
+* Velocidad
+* Ventilador de Capa
+
 
 ### Temperatura
 
@@ -32,7 +40,6 @@ Cada material se trabaja a una temperatura diferente, de hecho cada filamento ne
 * Filaflex: 220º
 
 ### Tracción
-
 
 [Plásticos](http://spainlabs.com/wiki/index.php?title=Impresoras_3D)
 
@@ -100,6 +107,12 @@ El filamento HIPS es un termoplástico con cualidades similares al ABS pero con 
 * Temperatura de impresión: 220 ºC
 * Temperatura cama: 50 ºC
 
+
+### Otros
+
+[Wood - Roble](https://sakata3d.com/es/pla-texture/151-texture-wood-roble.html)
+
+[Granito](https://sakata3d.com/es/pla-texture/153-texture-granito.html)
 
 ### Recursos
 
