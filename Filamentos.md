@@ -104,7 +104,7 @@ El filamento HIPS es un termoplástico con cualidades similares al ABS pero con 
 
  flexible, biodegradable y compostable. Su gran capacidad de absorción a los impactos lo hace ideal para todo aquel proyecto que necesite ser resistente. Fácil de imprimir y con un alta tolerancia a la temperatura. Su textura se parece a la goma de caucho natural
 
-* Temperatura de impresión: 220 ºC
+* Temperatura de impresión: 220-235 ºC
 * Temperatura cama: 50 ºC
 
 

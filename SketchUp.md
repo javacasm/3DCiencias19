@@ -59,6 +59,7 @@ Seleccionamos un objeto, por ejemplo a Helen, o mejor ... (Warehouse...)
 
 ### Crear casita
 
+(rectángulos, circulos,líneas,arcos)
 1. Base
 1. Volumen
 1. Escalones
@@ -69,12 +70,30 @@ Seleccionamos un objeto, por ejemplo a Helen, o mejor ... (Warehouse...)
 1. Colorear y texturas
 1. Añadir chimenea
 
+
+* Uso del teclado para definir tamaños
+
+    10cm,5cm  # tamaño del rectángulo
+    10r # radio del círculo
+    5s # polígono de 5 lados
+
+### Girar elementos
+
 ### Medidas
 
 1. Añadir cotas
 1. Redimensionar
   1. ¡¡Cuidado con los ángulos!!
 
+### Herramienta [Follow Me](https://www.youtube.com/watch?v=oX6bn0Q0pIM)
+
+
+### Herramienta offset
+
+* Doble click
+
+
+### Crear esfera
 
 ### Atajos de teclado
 
