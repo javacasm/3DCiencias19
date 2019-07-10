@@ -10,6 +10,8 @@
 ## https://github.com/javacasm/3DCiencias19
 
 
+![diseños diferentes](https://pbs.twimg.com/media/D-uSUNKWwAEALd-?format=jpg&name=medium)
+
 
 ## Reparación de piezas
 
