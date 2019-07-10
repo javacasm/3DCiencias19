@@ -79,3 +79,7 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 
 [Guía de impresión 3D de Prusa Research](https://www.prusa3d.com/wp-content/uploads/basics-of-3D-printing.pdf)
 
+[Cursos 3D](https://learn.techclass.courses/courses/take/3d-makers-academy-intro-ES/multimedia/7690419-capitulo-10-acabado-de-objetos-impresos-en-3d)
+
+[Guía de inicio rápido](https://3dmakers.academy/docs/00-3DMA-Guia-del-instructor-v02.pdf)
+
