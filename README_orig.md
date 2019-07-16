@@ -1,13 +1,14 @@
-# SOFTWARE Y RECURSOS PARA IMPRESORAS 3D ([191813GE029](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE029/))
+# Diseño e Impresión 3D: técnicas y aplicaciones
 
-## CEP de Guadix
+## Bibliomaker de la Biblioteca de la Facultad de Ciencias
 
 
 ### José Antonio Vacas @javacasm
 
 ![CCbySA](images/CCbySQ_88x31.png)
 
-## https://github.com/javacasm/3DGuadix2ed
+## http://bit.ly/3DBiblio
+
 # Impresión 3D
 
 Se trata un curso práctico en el que los participantes aprendan a utilizar el Software necesario para Diseñar en 3D y para trabajar con impresoras 3D.
@@ -53,6 +54,6 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 
 * Uso de la impresora 3D en el aula
 
-Duracion 20h
+Duracion 15h
 
 ¿Modelos de impresoras a usar?
