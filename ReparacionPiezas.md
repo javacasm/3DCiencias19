@@ -7,8 +7,9 @@
 
 ![CCbySA](images/CCbySQ_88x31.png)
 
-## https://github.com/javacasm/3DCiencias19
+## http://bit.ly/3DBiblio
 
+#### Mejor que arreglarlos es que no se rompan...
 
 ![diseños diferentes](https://pbs.twimg.com/media/D-uSUNKWwAEALd-?format=jpg&name=medium)
 
