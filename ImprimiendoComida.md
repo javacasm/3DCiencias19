@@ -1,3 +1,14 @@
+# Diseño e Impresión 3D: técnicas y aplicaciones
+
+## Bibliomaker de la Biblioteca de la Facultad de Ciencias
+
+
+### José Antonio Vacas @javacasm
+
+![CCbySA](images/CCbySQ_88x31.png)
+
+## http://bit.ly/3DBiblio
+
 # Extrusores de comida/pasta
 
 ![extrusor](https://cdn.thingiverse.com/renders/74/39/85/86/c6/All_paste_extruder_parts_printed_with_belt_display_large_preview_featured.jpg)
