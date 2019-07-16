@@ -1,13 +1,13 @@
-# SOFTWARE Y RECURSOS PARA IMPRESORAS 3D ([191813GE029](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE029/))
+# Diseño e Impresión 3D: técnicas y aplicaciones
 
-## CEP de Guadix
+## Bibliomaker de la Biblioteca de la Facultad de Ciencias
 
 
 ### José Antonio Vacas @javacasm
 
 ![CCbySA](images/CCbySQ_88x31.png)
 
-## https://github.com/javacasm/3DGuadix2ed
+## http://bit.ly/3DBiblio
 
 * * *
 # Historia
