@@ -7,7 +7,7 @@
 
 ![CCbySA](images/CCbySQ_88x31.png)
 
-## https://github.com/javacasm/3DCiencias19
+## http://bit.ly/3DBiblio
 
 
 # Open Source
