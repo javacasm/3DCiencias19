@@ -55,7 +55,7 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 * [Diseño 3D](Disenio3D.md)
     * [Herramientas de diseño](./HerramientasDisenio.md)
     * [Herramientas comerciales](./HerramientasComerciales.md)
-        * [TinkerCad](./TinkerCad.md)
+        * [TinkerCad](./Tinkercad.md)
     * [Herramientas OpenSource](./HerramientasOpenSource.md)
         * [Freecad](./Freecad.md)
         * [Blender](./Blender.md)
