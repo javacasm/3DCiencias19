@@ -12,7 +12,7 @@
 
 # Blender
 
-La última versión es la 2.79
+La última versión es la 2.80
 
 ![blender](https://www.blender.org/wp-content/uploads/2016/09/blender_278_splash_hires.jpg)
 
@@ -203,3 +203,5 @@ Pulsamos N para ver propiedades y en Imágenes de fondo marcamos cada una de las
 [Diseñando un zapato](https://www.youtube.com/watch?v=aV6AoxOkX8w)
 
 [Diseñando a Angelina Jolie](https://www.youtube.com/watch?v=Vu6jdSaSVyo)
+
+	[Tutoriales por ](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri)
