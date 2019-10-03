@@ -204,4 +204,5 @@ Pulsamos N para ver propiedades y en Imágenes de fondo marcamos cada una de las
 
 [Diseñando a Angelina Jolie](https://www.youtube.com/watch?v=Vu6jdSaSVyo)
 
-	[Tutoriales por ](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri)
+[Tutoriales por @grantabbitt](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri)
+[Tutoriales por  @3dilusion ](https://youtube.com/channel/UCGoU4aSJQataGD68OyVbgRA)
