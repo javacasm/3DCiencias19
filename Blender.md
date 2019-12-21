@@ -206,3 +206,4 @@ Pulsamos N para ver propiedades y en Imágenes de fondo marcamos cada una de las
 
 [Tutoriales por @grantabbitt](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri)
 [Tutoriales por  @3dilusion ](https://youtube.com/channel/UCGoU4aSJQataGD68OyVbgRA)
+[Video tutorial](https://www.youtube.com/watch?v=sIJDB_tHo7E&feature=emb_logo)
